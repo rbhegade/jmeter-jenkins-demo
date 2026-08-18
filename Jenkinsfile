@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         // 🔴 UPDATE THIS to your actual JMeter bin path (use forward slashes / or double backslashes \\)
-        JMETER_HOME = 'F:/Rohit/apache-jmeter-5.6.3/bin'
+        JMETER_HOME = 'F:\\Rohit\\apache-jmeter-5.6.3'
         
         RESULTS_DIR = 'results'
         REPORT_DIR  = 'results/dashboard'
